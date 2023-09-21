@@ -27,6 +27,7 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.11.0",
     "sanity": "^3.16.7",
+    "sanity-plugin-iframe-pane": "^2.5.7",
     "server-only": "^0.0.1",
     "styled-components": "5.2",
     "suspend-react": "^0.1.3",
